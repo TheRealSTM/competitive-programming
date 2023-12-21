@@ -23,7 +23,7 @@ import java.util.Scanner;
  * Outcome:
  * -
  */
-public class Template {
+public class TemplateUsacoOld {
     static String inputFileName = "template.in";
     static String outputFileName = "template.out";
 
