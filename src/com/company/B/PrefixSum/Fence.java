@@ -1,4 +1,4 @@
-package com.company.B.Implementation;
+package com.company.B.PrefixSum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

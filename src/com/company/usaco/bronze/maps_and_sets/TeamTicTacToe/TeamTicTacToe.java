@@ -1,4 +1,4 @@
-// package com.company.usaco.bronze.maps_and_sets.TeamTicTacToe;
+package com.company.usaco.bronze.maps_and_sets.TeamTicTacToe;
 
 import java.io.*;
 import java.util.*;
@@ -21,8 +21,8 @@ import java.util.*;
  * - 7 / 10 test cases pass - the official approach is better than what I have
  */
 public class TeamTicTacToe {
-    static String inputFileName = "tttt.in";
-    static String outputFileName = "tttt.out";
+    static String inputFileName = "C:\\Users\\stmon\\IdeaProjects\\CompetitiveProgramming\\src\\com\\company\\usaco\\bronze\\simulation\\TeamTicTacToe\\tttt.in";
+    static String outputFileName = "C:\\Users\\stmon\\IdeaProjects\\CompetitiveProgramming\\src\\com\\company\\usaco\\bronze\\simulation\\TeamTicTacToe\\tttt.in";
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(inputFileName));

@@ -1,4 +1,4 @@
-// package com.company.usaco.bronze.simulation.CircularBarn;
+package com.company.usaco.bronze.simulation.CircularBarn;
 
 import java.io.File;
 import java.io.IOException;
